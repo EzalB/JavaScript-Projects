@@ -1,4 +1,4 @@
-const text = "Hello World! <3";
+const text = "Hello World!";
 
 let index = 0;
 
