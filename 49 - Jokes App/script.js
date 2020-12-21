@@ -5,7 +5,6 @@ jokeBtn.addEventListener('click', generateJoke)
 
 generateJoke()
 
-// USING ASYNC/AWAIT
 async function generateJoke() {
   const config = {
     headers: {
