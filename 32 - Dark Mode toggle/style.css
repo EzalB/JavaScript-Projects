@@ -25,12 +25,12 @@ body.dark {
 
 .toggle-container {
     position: fixed;
-    top: 10px;
-    right: 10px;
+    top: 30px;
+    right: 30px;
 }
 
 label {
-    background-color: rebeccapurple;
+    background-color: #111;
     border-radius: 50%;
     display: inline-block;
     width: 50px;
